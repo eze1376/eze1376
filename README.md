@@ -6,8 +6,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eze1376&theme=highcontrast"/>
 </div>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
+
+  💻 GitHub Profile Stats
   <div align="center">
     <br/>
         <a href="https://github.com/eze1376/github-readme-stats"><img alt="eze1376's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eze1376&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
@@ -15,7 +15,7 @@
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
-</details>
+
 
 
 ## Connect with me
