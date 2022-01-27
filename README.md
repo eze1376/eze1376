@@ -27,6 +27,7 @@
     <a href="https://www.linkedin.com/in/erfan-zekri-esfahani/" target="_blank"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/erfan.zekri" target="_blank"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/erfanzekri/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/989905134639" target="_blank"><img alt="Whatsapp" title="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.goodreads.com/user/show/141261284-erfan-zekri" target="_blank"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Goodreads-E9E5CD?style=for-the-badge&logo=goodreads&logoColor=75420E"/></a>
   <a href="https://discordapp.com/users/696760576038273034/" target="_blank"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://www.t.me/eze1376/" target="_blank"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
