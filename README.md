@@ -20,6 +20,8 @@
 
 ## 📫 Connect with me 
 
+### Social Media
+
 <p align="center">
     <a href="https://twitter.com/ErfanZekri" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/erfan-zekri-esfahani/" target="_blank"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -32,8 +34,11 @@
 </p>
 
   <hr>
+  
+### Mail
   <p align="center">
   <a href="mailto:erfanzekri@gmail.com" target="_blank"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-f5f5f5?style=for-the-badge&logo=gmail&logoColor=ff2e00"/></a>
+  <a href="mailto:erfanzekri@yahoo.com" target="_blank"><img alt="Yahoo" title="Yahoo" src="https://img.shields.io/badge/-Yahoo!-ffffff?style=for-the-badge&logo=yahoo&logoColor=400090"/></a>
   </p>
   
 
