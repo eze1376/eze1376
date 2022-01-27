@@ -29,8 +29,14 @@
     <a href="https://www.t.me/eze1376/" target="_blank"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://join.skype.com/invite/odbAZkku2oeD" target="_blank"><img alt="Skype" title="Skype" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white"/></a>
   <a href="https://discordapp.com/users/696760576038273034/" target="_blank"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  
 </p>
+
+  <hr>
+  <p align="center">
+  <a href="mailto:erfanzekri@gmail.com" target="_blank"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-f5f5f5?style=for-the-badge&logo=gmail&logoColor=ff2e00"/></a>
+  </p>
+  
+
 
 <!--
 **eze1376/eze1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
