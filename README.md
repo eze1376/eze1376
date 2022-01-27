@@ -25,20 +25,22 @@
 <p align="center">
     <a href="https://twitter.com/ErfanZekri" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/erfan-zekri-esfahani/" target="_blank"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/erfanzekri/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/erfan.zekri" target="_blank"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="https://www.instagram.com/erfanzekri/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.goodreads.com/user/show/141261284-erfan-zekri" target="_blank"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Goodreads-E9E5CD?style=for-the-badge&logo=goodreads&logoColor=75420E"/></a>
+  <a href="https://discordapp.com/users/696760576038273034/" target="_blank"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://www.t.me/eze1376/" target="_blank"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://join.skype.com/invite/odbAZkku2oeD" target="_blank"><img alt="Skype" title="Skype" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/696760576038273034/" target="_blank"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  
 </p>
 
   <hr>
   
 ### Mail
   <p align="center">
-  <a href="mailto:erfanzekri@gmail.com" target="_blank"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-f5f5f5?style=for-the-badge&logo=gmail&logoColor=ff2e00"/></a>
-  <a href="mailto:erfanzekri@yahoo.com" target="_blank"><img alt="Yahoo" title="Yahoo" src="https://img.shields.io/badge/-Yahoo!-ffffff?style=for-the-badge&logo=yahoo&logoColor=400090"/></a>
+  <a href="mailto:erfanzekri@gmail.com" target="_blank"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-ff2e00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:erfanzekri@yahoo.com" target="_blank"><img alt="Yahoo" title="Yahoo" src="https://img.shields.io/badge/-Yahoo!-400090?style=for-the-badge&logo=yahoo&logoColor=white"/></a>
+   <a href="mailto:erfanzekri@outlook.com" target="_blank"><img alt="Outlook" title="Outlook" src="https://img.shields.io/badge/-Outlook-249ee4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
   </p>
   
 
